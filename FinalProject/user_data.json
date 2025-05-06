@@ -1,0 +1,19 @@
+{
+    "name": "aaa",
+    "level": 0,
+    "exp": 0,
+    "HP": 100,
+    "max_HP": 100,
+    "attack": 10,
+    "defense": 5,
+    "element": "Unawakened",
+    "stage": "child stage",
+    "skills": [],
+    "energy": 100,
+    "package": {
+        "Devil Fruits": 0,
+        "Energy Fruit": 0,
+        "Recovery pills": 0,
+        "Strength pills": 0
+    }
+}
